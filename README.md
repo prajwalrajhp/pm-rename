@@ -40,7 +40,7 @@ Press Below Button to Deploy!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PM_Rename271_bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
-#### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@PM_Rename271_bot](http://t.me/PM_Rename271_bot)
+#### Inspired from [@PM_Rename271_bot](https://t.me/HK_Rename_Bot) & [@PM_Rename271_bot](http://t.me/PM_Rename271_bot)
 
 ### Follow on:
 <p align="left">
